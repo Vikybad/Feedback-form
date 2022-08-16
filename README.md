@@ -12,5 +12,3 @@
  <br><br>
 <h3 align="center">Click here to download <a href="logo.gif">icon file.</a></h3>
 
-
-</body>
