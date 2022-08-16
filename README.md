@@ -10,7 +10,7 @@
  <br><br>
 <h3 align="center">Click here to download <a href="form.py">python file.</a></h3>
  <br><br>
-<h3 align="center">Click here to download <a href="ligo.gif">icon file.</a></h3>
+<h3 align="center">Click here to download <a href="logo.gif">icon file.</a></h3>
 
 
 </body>
