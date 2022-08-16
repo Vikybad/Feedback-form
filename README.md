@@ -1,7 +1,7 @@
 <h2 align="center">Project by Vikram Badesara</h3>
 <br>
 <br>
- <h3 align="center">Project name: Customer feedback form</h3>
+ <h3 align="center">Project name: Customer feedback form
  
 <br>
 <br>
