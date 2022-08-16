@@ -17,7 +17,9 @@
 <hr>
 
 <br><br>
-<p style="color:red">Also see </p>
+<h2>Also see </h2>
+<br><br>
+
 <h3 align="center">Click here to go to my <a href="PJ2\web2.html">Zenva food page.</a></h3>
 <br><br>
 
